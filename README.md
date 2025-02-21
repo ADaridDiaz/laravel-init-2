@@ -1,1 +1,2 @@
-# laravel-init-2
+# El Rincon de Isma
+## Template for Laravel install
